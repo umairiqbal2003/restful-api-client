@@ -1,0 +1,21 @@
+.nav-umair{
+    background-color: #DECBA4;
+}
+
+.nav-umair-form{
+    margin-top: 30px;
+    /* border: 1px solid black; */
+    background-color: #FFD194;
+}
+.umair-heading{
+    text-align: center;
+    color: brown;
+}
+.users-list{
+    text-align: center;
+}
+.button-umair{
+    text-align: center;
+    background-color: cornflowerblue;
+    border-radius: 10px;
+}
